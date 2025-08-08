@@ -16,4 +16,5 @@ An interactive Power BI Dashboard that provides deep insights into Amazon sales 
 Power BI – Data visualization & dashboard creation  
 Excel– Data cleaning & preprocessing  
 
- 📂 Project Structure
+ 📂 Image of Dashboard
+ -https://github.com/Shant2109N/Sales-Performance-Dashboard/blob/main/Amazon.JPG
